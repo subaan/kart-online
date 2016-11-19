@@ -2,3 +2,5 @@
 .classpath
 .settings/
 target/
+deploy_key
+deploy_key.pub

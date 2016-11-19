@@ -1,4 +1,4 @@
-# Shopping-Cart-Sample
+# Kart-Online
 
 Follow the steps provided to setup your environment, build and test
 
