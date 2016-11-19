@@ -3,6 +3,7 @@ jdk:
   - oraclejdk8
 
 script: ./grailsw refresh-dependencies
+     && grails war
 
 #after_success:
  # - ./deploy.sh
