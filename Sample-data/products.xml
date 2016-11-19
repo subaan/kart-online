@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<name>WranglerGrey Printed Slim Fit Round Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>NEW</type>
+		<price>15</price>
+		<oldPrice>17</oldPrice>
+		<offerPercentage>15</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0001</skuNumber>
+		<images>
+			<image>
+				<url>demo/p1-1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+                        			<image>
+				<url>demo/p1-large-1.jpg</url>
+				<orderNumber>2</orderNumber>
+			</image>
+			<image>
+				<url>demo/p1-2.jpg</url>
+				<orderNumber>3</orderNumber>
+			</image>
+                        
+			<image>
+				<url>demo/p1-large-2.jpg</url>
+				<orderNumber>4</orderNumber>
+			</image>
+			<image>
+				<url>demo/p1-3.jpg</url>
+				<orderNumber>5</orderNumber>
+			</image>
+                        
+			<image>
+				<url>demo/p1-large-3.jpg</url>
+				<orderNumber>6</orderNumber>
+			</image>
+			<image>
+				<url>demo/p1-4.jpg</url>
+				<orderNumber>7</orderNumber>
+			</image>
+
+			<image>
+				<url>demo/p1-large-4.jpg</url>
+				<orderNumber>8</orderNumber>
+			</image>
+		</images>
+		<specifications>
+			<specification>
+				<name>Lorem</name>
+				<value>Ipsum</value>
+			</specification>
+			<specification>
+				<name>Dolor</name>
+				<value>Sit Amet</value>
+			</specification>
+			<specification>
+				<name>Consectetur</name>
+				<value>Adipisicing</value>
+			</specification>
+			<specification>
+				<name>Excepteur</name>
+				<value>Occaecat</value>
+			</specification>
+		</specifications>
+	</product>
+	<product>
+		<name>CelioKhaki Printed Round Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>NEW</type>
+		<price>15</price>
+		<oldPrice>17</oldPrice>
+		<offerPercentage>15</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0002</skuNumber>
+		<images>
+			<image>
+				<url>demo/p2-1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>CelioOff White Printed Round Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>NEW</type>
+		<price>15</price>
+		<oldPrice>17</oldPrice>
+		<offerPercentage>15</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0003</skuNumber>
+		<images>
+			<image>
+				<url>demo/p3-1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>IncultAcid Wash Raglan Crew Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>BEST_SELLING</type>
+		<price>15</price>
+		<oldPrice>17</oldPrice>
+		<offerPercentage>15</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0004</skuNumber>
+		<images>
+			<image>
+				<url>demo/p5-1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>Avoir EnvieOlive Printed Round Neck T-Shir</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>BEST_SELLING</type>
+		<price>15</price>
+		<oldPrice>17</oldPrice>
+		<offerPercentage>15</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0005</skuNumber>
+		<images>
+			<image>
+				<url>demo/p6-1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>ElaboradoBrown Printed Round Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>BEST_SELLING</type>
+		<price>15</price>
+		<oldPrice>17</oldPrice>
+		<offerPercentage>15</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0006</skuNumber>
+		<images>
+			<image>
+				<url>demo/p7-1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+
+
+	<product>
+		<name>IncultGeo Print Polo T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>FEATURED</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+		<skuNumber>P0007</skuNumber>
+		<images>
+			<image>
+				<url>demo/polo1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>Tommy HilfigerNavy Blue Printed Polo T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>FEATURED</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0008</skuNumber>
+		<images>
+			<image>
+				<url>demo/polo2.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>WranglerNavy Blue Solid Polo T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>FEATURED</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0009</skuNumber>
+		<images>
+			<image>
+				<url>demo/polo3.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>NikeAs Matchup -Pq Grey Polo T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>FEATURED</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0010</skuNumber>
+		<images>
+			<image>
+				<url>demo/polo4.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>PhosphorusGrey Melange Printed V Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>AVAILABLE</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0011</skuNumber>
+		<images>
+			<image>
+				<url>demo/vneck1.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>PhosphorusGrey Melange Printed V Neck T-Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>AVAILABLE</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0012</skuNumber>
+		<images>
+			<image>
+				<url>demo/vneck2.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>United Colors of BenettonNavy Blue Solid V Neck T Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>AVAILABLE</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0013</skuNumber>
+		<images>
+			<image>
+				<url>demo/vneck3.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>WranglerBlack V Neck T Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>AVAILABLE</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0014</skuNumber>
+		<images>
+			<image>
+				<url>demo/vneck4.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>WranglerBlack V Neck T Shirt</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>POPULAR</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0015</skuNumber>
+		<images>
+			<image>
+				<url>demo/vneck4.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+	<product>
+		<name>Tagd New YorkGrey Printed V Neck T-Shirts</name>
+		<description>
+			<![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, molestiae odit? Animi eligendi, optio culpa cupiditate, minus, eaque sint delectus non id accusamus suscipit illum quaerat quibusdam expedita dolore quos distinctio corporis quae.]]>
+		</description>
+		<type>POPULAR</type>
+		<price>13.50</price>
+		<oldPrice>15</oldPrice>
+		<offerPercentage>-10</offerPercentage>
+		<availabilty>READY_STOCK</availabilty>
+                <skuNumber>P0016</skuNumber>
+		<images>
+			<image>
+				<url>demo/vneck4.jpg</url>
+				<orderNumber>1</orderNumber>
+			</image>
+		</images>		
+	</product>
+</products>
