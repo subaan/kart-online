@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 1.27.0
+  - 1.9.3
 
 # The build script should also call `jekyll build`
 script:
