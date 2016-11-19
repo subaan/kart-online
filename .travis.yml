@@ -1,10 +1,9 @@
-language: ruby
-rvm:
-  - 1.9.3
+language: groovy
+jdk:
+  - oraclejdk8
 
-# The build script should also call `jekyll build`
-#script:
- #- bundle exec rake build
+script: ./grailsw refresh-dependencies
+     && ./grailsw test-app
 
 after_success:
   - ./deploy.sh
@@ -13,7 +12,7 @@ after_success:
 # variables set up when calling `travis encrypt-file` on the SSH key
 env:
   global:
-    - ENCRYPTION_LABEL="YOUR_ENCRYPTION_LABEL"
+    - ENCRYPTION_LABEL="b9829a5785d1"
     - GIT_NAME="subaan"
     - GIT_EMAIL="abdulsubaanbtech@gmail.com"
     - DEPLOY_BRANCH="master"
