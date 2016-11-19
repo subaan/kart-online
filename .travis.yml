@@ -3,8 +3,8 @@ rvm:
   - 1.9.3
 
 # The build script should also call `jekyll build`
-script:
-  - bundle exec rake build
+#script:
+ #- bundle exec rake build
 
 after_success:
   - ./deploy.sh
