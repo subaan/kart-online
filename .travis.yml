@@ -14,7 +14,7 @@ after_success:
 env:
   global:
     - ENCRYPTION_LABEL="YOUR_ENCRYPTION_LABEL"
-    - GIT_NAME="YOUR_NAME"
-    - GIT_EMAIL="YOUR_EMAIL"
-    - DEPLOY_BRANCH="deploy"
+    - GIT_NAME="subaan"
+    - GIT_EMAIL="abdulsubaanbtech@gmail.com"
+    - DEPLOY_BRANCH="master"
 
