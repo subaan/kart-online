@@ -50,8 +50,8 @@ grails.project.dependency.resolution = {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
         // runtime 'mysql:mysql-connector-java:5.1.27'
         // runtime 'org.postgresql:postgresql:9.3-1100-jdbc41'
-        compile 'org.apache.ant:ant:1.7.1'
-        compile 'org.apache.ant:ant-launcher:1.7.1'
+//        compile 'org.apache.ant:ant:1.7.1'
+//        compile 'org.apache.ant:ant-launcher:1.7.1'
     }
 
     plugins {
