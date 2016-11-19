@@ -4,6 +4,8 @@ jdk:
 
 script: ./grailsw refresh-dependencies
      && ./grailsw war
+     && ./grailsw maven-install
+     && ./grailsw maven-deploy --repository=releases
 
 #after_success:
  # - ./deploy.sh

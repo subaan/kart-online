@@ -57,6 +57,10 @@ grails.project.dependency.resolution = {
     plugins {
         // plugins for the build system only
         build ":tomcat:7.0.52.1"
+        
+        // To publish application WAR files and plugin packages to a Maven-compatible repository
+        build ":maven-publisher:0.6"
+
 
         // plugins for the compile step
         compile ":scaffolding:2.0.3"
@@ -80,5 +84,17 @@ grails.project.dependency.resolution = {
         //compile ":less-asset-pipeline:1.5.3"
         //compile ":coffee-asset-pipeline:1.5.0"
         //compile ":handlebars-asset-pipeline:1.3.0.1"
+    }
+}
+
+grails.project.dependency.distribution = {
+//    localRepository = "/path/to/local/cache"
+
+    remoteRepository(id: "snapshots", url: "https://oss.sonatype.org/content/repositories/snapshots")  {
+        authentication username: "abdulsubaan", password: "passw0rd"
+    }
+
+    remoteRepository(id: "releases", url: "https://oss.sonatype.org/service/local/staging/deploy/maven2/") {
+        authentication username: "abdulsubaan", password: "passw0rd"
     }
 }
