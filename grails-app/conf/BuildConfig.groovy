@@ -52,6 +52,7 @@ grails.project.dependency.resolution = {
         // runtime 'org.postgresql:postgresql:9.3-1100-jdbc41'
 //        compile 'org.apache.ant:ant:1.7.1'
 //        compile 'org.apache.ant:ant-launcher:1.7.1'
+compile 'org.apache.maven:maven-ant-tasks:2.1.1'
     }
 
     plugins {
@@ -88,7 +89,7 @@ grails.project.dependency.resolution = {
 }
 
 grails.project.dependency.distribution = {
-//    localRepository = "/path/to/local/cache"
+    localRepository = "/home/gemini/.m2/repository"
 
     remoteRepository(id: "snapshots", url: "https://oss.sonatype.org/content/repositories/snapshots")  {
         authentication username: "abdulsubaan", password: "passw0rd"
