@@ -11,6 +11,15 @@
 //    grails.config.locations << "file:" + System.properties["${appName}.config.location"]
 // }
 
+environments {
+    development {
+         grails.config.locations = ["file:/home/config/kart-online-config.groovy", "file:./grails-app/conf/kart-online-config.groovy"]
+    }
+    production {
+         grails.config.locations = ["file:/etc/kart-online-config.groovy", "file:./grails-app/conf/kart-online-config.groovy"]
+    }
+}
+
 grails.project.groupId = appName // change this to alter the default package name and Maven publishing destination
 
 // The ACCEPT header will not be used for content negotiation for user agents containing the following strings (defaults to the 4 major rendering engines)
