@@ -3,10 +3,9 @@ jdk:
   - oraclejdk8
 
 script: ./grailsw refresh-dependencies
-     && grails build
 
-after_success:
-  - ./deploy.sh
+#after_success:
+ # - ./deploy.sh
 
 # The encryption label is the unique key used in the environment
 # variables set up when calling `travis encrypt-file` on the SSH key
